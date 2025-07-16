@@ -1,7 +1,3 @@
-Claro, aquí tienes la traducción al inglés:
-
----
-
 # Code - EEG & Eye Tracking Data Fusion
 
 This directory contains the main scripts for the fusion and analysis of EEG and Eye Tracking data used in the Interview Project.
